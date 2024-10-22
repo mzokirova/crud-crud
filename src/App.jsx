@@ -4,7 +4,6 @@ import './App.css'
 import Home from './pages/Home'
 import Create from './pages/Create'
 import Update from './pages/Update'
-import Delete from './pages/Delete'
 import Navbar from './components/Navbar'
 
 function App() {
